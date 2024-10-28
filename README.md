@@ -13,7 +13,7 @@ Tampermonkey
 - SLACK_TOKEN = 'xxxxxx';  // Replace w/ ur Slack OAuth token
 - JIRA_PAT = 'xxxxxxx';  // Replace w/ ur Jira Personal Access Token
 
-Jira Url = your-jira-itsm-domain.com // replace with ur actual Jira domain
+Jira Url = your-jira-itsm-domain.com // replace the 3 lines w/ ur actual Jira domain
 
 Ping section:
 - slackuser = replace with Slack Member ID
