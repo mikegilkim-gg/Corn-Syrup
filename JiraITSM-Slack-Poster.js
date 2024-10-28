@@ -134,7 +134,7 @@
                 const pingPayload = {
                     channel: channel,
                 //  text: "<@slackuser> Heads up!",  // replace 'slackuser' with the actual Slack Member ID
-                    text: "<!subteam^slackgroup> Heads up!",  //  replace 'slackgroup' with the actual Slack group
+                    text: "<!subteam^slackgroup> Heads up!",  //  replace 'slackgroup' with the actual Slack group ID
                     thread_ts: thread_ts
                 };
                 await fetch(slackUrl, {
