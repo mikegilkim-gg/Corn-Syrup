@@ -1,3 +1,6 @@
+This script will Post Jira Tickets To Slack with a click.
+User input is required for the Slack Channel
+Script will ping a specific user or group in slack after posting the ticket.
 
 🔭Prerequisites:
 - Slack 0Auth Token
