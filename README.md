@@ -1,20 +1,15 @@
-Hi 👋, I'm mikegilkim
-I love corn syrup
-🔭 I’m currently working on Corn Syrup to make juices
-⚡ Fun fact I'm sleeping
 
-
-Prerequisites:
+🔭Prerequisites:
 - Slack 0Auth Token
 - Jira PAT
 
-Tampermonkey
+⚡Tampermonkey
 
 - SLACK_TOKEN = 'xxxxxx';  // Replace w/ ur Slack OAuth token
 - JIRA_PAT = 'xxxxxxx';  // Replace w/ ur Jira Personal Access Token
 
-Jira Url = your-jira-itsm-domain.com // replace the 2 lines w/ ur actual Jira domain
+⚡Jira Url = your-jira-itsm-domain.com // replace the 2 lines w/ ur actual Jira domain
 
-Ping section:
+⚡Ping section:
 - slackuser = replace with Slack Member ID
 - Slackgroup = replace with your slack group
