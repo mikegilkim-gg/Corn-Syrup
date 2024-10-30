@@ -13,7 +13,7 @@
         button.id = 'post-to-slack-btn';
         button.textContent = 'Post to Slack';
         button.style.position = 'fixed';
-        button.style.top = '20px';
+        button.style.top = '50px';
         button.style.right = '20px';
         button.style.zIndex = '1000';
         button.style.padding = '10px';
